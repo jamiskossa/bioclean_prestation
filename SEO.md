@@ -139,5 +139,5 @@
     *   Informations de contact (adresse, téléphone, email)
     *   Plan d'accès (Google Maps)
 *   **Réservation (reservation.html)**
-    *   Formulaire de
+    *   Formulaire de réservation
 
